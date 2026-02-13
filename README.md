@@ -1,6 +1,6 @@
 <h1>Esse projeto tem como finalidade aprimorar os conhecimentos em JAVASCRIPT</h1>
 <br>
-<h3> O foco nao foi em deixar bem carregado em HTML e CSS devido ser o foco em javascript, mas tera atualização futura nos projetos,
+<h3> O foco não foi em deixar bem carregado em HTML e CSS devido ser o foco em javascript, mas tera atualização futura nos projetos,
 sendo tbm feito para priorizar a tela de celulares</h3>
 
 <h4>Ferramentas usadas</h4>
