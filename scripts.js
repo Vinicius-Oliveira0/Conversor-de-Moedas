@@ -48,7 +48,15 @@ function convertValues() {
     moedaValorEntrada.innerHTML = new Intl.NumberFormat("pt-BR", {
         style: "currency",
         currency: "BRL",
-    }).format(inputMoedaValor)
+        }).format(inputMoedaValor)
+        
+        moedaValorEntrada.innerHTML = new Intl.NumberFormat("en-US", {
+        style: "currency",
+        currency: "USD",
+        }).format(inputMoedaValor)
+        
+        
+    
 
 }
 
